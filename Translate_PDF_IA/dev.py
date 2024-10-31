@@ -1,7 +1,7 @@
 from PyPDF2 import PdfReader
 from translate import Translator
 from shutil import copyfile
-#import aspose.words as aw
+import aspose.words as aw
 
 #tradutor de pdf
 
